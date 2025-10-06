@@ -1,0 +1,21 @@
+<mvc:View xmlns:mvc="sap.ui.core.mvc" xmlns="sap.m" controllerName="sap.btp.gitapp.controller.View1">
+    <Page id="page" title="{i18n>title}">
+    <content>
+        <sap.ui.layout.form:Form xmlns:sap.ui.layout.form="sap.ui.layout.form" editable="true" id="form0">
+            <sap.ui.layout.form:formContainers>
+                <sap.ui.layout.form:FormContainer title="Input" id="container0">
+                    <sap.ui.layout.form:formElements>
+                        <sap.ui.layout.form:FormElement label="Name" id="element0">
+                            <sap.ui.layout.form:fields>
+                                <Input width="100%" id="input0"/>
+                            </sap.ui.layout.form:fields>
+                        </sap.ui.layout.form:FormElement>
+                    </sap.ui.layout.form:formElements>
+                </sap.ui.layout.form:FormContainer>
+            </sap.ui.layout.form:formContainers>
+            <sap.ui.layout.form:layout>
+                <sap.ui.layout.form:ResponsiveGridLayout id="layout0"/>
+            </sap.ui.layout.form:layout></sap.ui.layout.form:Form><Button xmlns="sap.m" text="Submit" id="button0"/>
+    </content>
+    </Page>
+</mvc:View>
