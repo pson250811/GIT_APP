@@ -9,7 +9,7 @@
 |**Service Type**<br>None|
 |**Service URL**<br>N/A|
 |**Module Name**<br>project2|
-|**Application Title**<br>project2|
+|**Application Title**<br>project2|d
 |**Namespace**<br>sap.btp|
 |**UI5 Theme**<br>sap_horizon|
 |**UI5 Version**<br>1.141.0|
