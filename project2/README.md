@@ -1,6 +1,6 @@
 ## Application Details
 |      dsds         |
-| ------------- |ads
+| ------------- |adsnow or never
 |**Generation Date and Time**<br>Mon Oct 06 2025 09:24:32 GMT+0000 (Coordinated Universal Time)|
 |**App Generator**<br>SAP Fiori Application Generator|
 |**App Generator Version**<br>1.19.0|
