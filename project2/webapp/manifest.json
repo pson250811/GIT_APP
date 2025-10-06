@@ -1,0 +1,18 @@
+{
+    "_version": "1.76.0",
+      "sap.app": {
+          "id": "sap.btp.project2",
+              "type": "application",
+                  "i18n": "i18n/i18n.properties",
+                      "applicationVersion": {
+                            "version": "0.0.1"
+                                },
+                                    "title": "{{appTitle}}",
+                                        "description": "{{appDescription}}",
+                                            "resources": "resources.json",
+                                                "sourceTemplate": {
+                                                      "id": "@sap/generator-fiori:basic",
+                                                            "version": "1.19.0",
+                                                                  "toolsId": "f9f92502-eeca-4b17-9e35-c4c0b13405d8"
+                                                                      },
+}
