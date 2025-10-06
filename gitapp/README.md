@@ -32,5 +32,6 @@ Git application
 #### Pre-requisites:
 
 1. Active NodeJS LTS (Long Term Support) version and associated supported NPM version.  (See https://nodejs.org) hello12dson1111 branvh1
+check out branch 1
 
 
